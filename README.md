@@ -10,11 +10,11 @@
  Whit is a Facebook-Cracker
 
  I have written lots of facebook hacking art icle like hack facebook using android smartphone,open source tools,python and perl script etc.. But Toady I'will tell you about hacking in Facebook Using Brute force attack.
- In brute force attack method,tool try all combination of password to provide access of victim account Brute force attack is the only successful method to hack facebook account. Hack Facebook Account Password Using Brute
+ In brute force attack method,tool try all combination of password to provide access of victim account Brute force attack is the only successful method to hack facebook account. Hack Facebook AcXount Password Using Brute
 
  Download & Install
 
- git clone https://github.com/M-Hacker/Facebook-Cracker/
+ git clone https://github.com/XM-MHL/Facebook-Cracker/
    
  cd Facebok-Cracker
 
