@@ -19,8 +19,10 @@
  cd Facebok-Cracker
 
  chmod +x Facebook.py
-
- python Facebook.py
+ 
+ pip2 install mechanize
+ 
+ python2 Facebook.py
 
 
 
